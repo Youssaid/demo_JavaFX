@@ -21,3 +21,8 @@ public class HelloApplication extends Application {
         launch();
     }
 }
+
+public class ;
+
+hello my name is Rasputin---Retsam
+my name is Robert --- Master
